@@ -16,7 +16,7 @@ int main()
 
     input = getFileLine(f); //gets first line of text file
     evalSentence(input);
-        
+         
 }
 
 
